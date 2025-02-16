@@ -1,4 +1,8 @@
-test = 1
+wad = 21
 
-print(f"Hello guys i have {test} bananas")
+
+
+
+
+print(f"Hello guys i have {wad} bananas")
 
